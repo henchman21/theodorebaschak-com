@@ -2,9 +2,9 @@
 
 ##	Files
 
-*	[view](index.html)
-*	[source](theodore.md)
-*	[download](theodorebaschak_resume.pdf)
+*	[markdown](theodore.md)
+*	[html](index.html)
+*	[pdf](theodorebaschak_resume.pdf)
 
 ##	How to use
 
