@@ -1,5 +1,5 @@
 # Theodore Baschak
-## Senior Network Administrator
+## Experienced Network Administrator
 
 > [Download PDF](theodorebaschak_resume.pdf)  
 > [theodore@ciscodude.net](theodore@ciscodude.net)  
@@ -9,17 +9,30 @@
 
 ### Profile {#profile}
 
-I have my own fully IPv6 enabled test network which I lab new concepts on. It consists of several VM servers running on a well equipped Cisco test lab (multiple routers, redundant switches, access points) for my home network where I experiment with new technologies on my own time. Often blogged about at [https://secure.ciscodude.net/blog/](https://secure.ciscodude.net/blog/)
+I have my own fully IPv6 enabled lab network which I test new concepts on. It consists of several VM servers running on a well equipped Cisco test lab (multiple routers, redundant switches, access points) for my home network where I experiment with new technologies on my own time. Often blogged about at [https://secure.ciscodude.net/blog/](https://secure.ciscodude.net/blog/)
 
 ------
 
-### Skills {#skills}
+### Network Skills {#skills}
 
 * Network Design
   : Proven ability to design reliable, redundant networks.
 
 * Network Operations
-  : Over ten years experience operating large networks, including IPv6.
+  : Over 10 years experience operating large networks, including IPv6 and anycast.
+
+* Network Management
+  : Over 15 years experience administering core network services.
+
+------
+
+### System Skills {#skills}
+
+* VMware vCenter
+  : Proven ability to build/run reliable, redundant virtual machines and the environment which they run on.
+
+* System Administration
+  : Over 20 years experience administering linux systems.
 
 * Internet Services
   : Over 15 years experience administering core internet services.
@@ -30,7 +43,7 @@ I have my own fully IPv6 enabled test network which I lab new concepts on. It co
 
 1. BGP
 1. OSPF / OSPFv3
-1. Virtualization
+1. VMware
 1. IPv6
 1. Network Design
 1. Subversion / Git
@@ -70,10 +83,6 @@ Keewatin Tribal Council
 : *System Administrator, Manitoba First Nations Schoolnet*
   __2005-2007__
   Maintained Internet connections to 63 First Nations schools, including 10 large satellite internet ground stations which later became part of the Broadband Communications North (BCN) network. Responsible for maintaining a Netware cluster in Winnipeg and Thompson as well as desktop support for approximately 70 Windows workstations. Deployed Windows 2003 and Linux servers at schools. Under a secondment to BCN, responsible for planning out, configuring, and deploying BCN’s network. This led to full-time employment at BCN.
-
-------
-
-### Experience {#experience}
 
 Frantic Films
 : *Junior System Administrator*
