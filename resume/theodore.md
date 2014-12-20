@@ -56,14 +56,14 @@ I have my own fully IPv6 enabled lab network which I test new concepts on. It co
 ### Experience {#experience}
 
 Manitoba First Nations Education Resource Centre, Inc
-: *System Administrator, Wapaskwa Virtual Collegiate*
+: *System Administrator, Information Technology*
   __2013-current__
   Planned and executed a virtual teaching environment move from a partner organization to in house, which included almost 1TB of course material as well as several auxillary virtual machines. Implementation included bringing up BGP with two providers. Responsible for virtual environment availability and uptime on a daily basis.
 
 
 VOI Network Solutions
 : *Autonomous System Operator*
-  __2011-current__
+  __2011-2014__
   Documented, planned and implemented smooth network expansions and upgrades. Planned and executed a major network upgrade to multiple gigabit BGP peers/gateway providers. Implemented virtualization using VMware ESXi, provisioned with Windows, Linux, and FreeBSD VMs. Set up and maintained robust logging and monitoring systems to monitor the network proactively for problems and performance bottlenecks. Implemented Splunk to pull out, correlate, and trend highly useful data from otherwise useless, noisy log files.
 
 
