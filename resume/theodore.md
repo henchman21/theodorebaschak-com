@@ -9,7 +9,7 @@
 
 ### Profile {#profile}
 
-I have my own fully IPv6 enabled lab network which I test new concepts on. It consists of several VM servers running on a well equipped Cisco test lab (multiple routers, redundant switches, access points) for my home network where I experiment with new technologies on my own time. Often blogged about at [https://secure.ciscodude.net/blog/](https://secure.ciscodude.net/blog/)
+I have my own fully IPv6 enabled lab network which I test new concepts on. It consists of several VM servers running on a well equipped Cisco test lab (multiple routers, redundant switches, access points) for my home network where I experiment with new technologies on my own time. Often blogged about at [https://secure.ciscodude.net/](https://secure.ciscodude.net/)
 
 ------
 
