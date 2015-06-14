@@ -9,7 +9,7 @@
 
 ### Profile {#profile}
 
-I have my own fully IPv6 enabled lab network which I test new concepts on. It consists of several VM servers running on a well equipped Cisco test lab (multiple routers, redundant switches, access points) for my home network where I experiment with new technologies on my own time. Often blogged about at [https://secure.ciscodude.net/](https://secure.ciscodude.net/)
+I have my own fully IPv6 enabled lab network which I test new concepts on. It consists of several VM servers running on a well equipped Cisco test lab (multiple routers, redundant switches, access points) for my home network where I experiment with new technologies on my own time. Often blogged about at [https://ciscodude.net/](https://ciscodude.net/)
 
 ------
 
@@ -107,6 +107,6 @@ DigitalSpace.net
 
 Theodore Baschak -- [theodore@ciscodude.net](theodore@ciscodude.net) -- (431) 999-1735
 -- Github: [https://github.com/tbaschak](https://github.com/tbaschak) --
-Blog: [https://secure.ciscodude.net/](https://secure.ciscodude.net/)
+Blog: [https://ciscodude.net/](https://ciscodude.net/)
 
 ------
