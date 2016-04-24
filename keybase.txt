@@ -6,16 +6,18 @@ I hereby claim:
 
   * I am an admin of https://theodorebaschak.com
   * I am tbaschak (https://keybase.io/tbaschak) on keybase.
-  * I have a public key with fingerprint 13F2 3C54 26FF B28A CF0D  34DC C1AC A463 B519 C47E
+  * I have a public key with fingerprint 8BB1 79F2 7ABB 1AFC F711  9E2A 2A0E 8675 EF4D 4F80
 
-To claim this, I am signing this object:
+To do so, I am signing this object:
 
 {
     "body": {
         "key": {
-            "fingerprint": "13f23c5426ffb28acf0d34dcc1aca463b519c47e",
+            "eldest_kid": "01012d662aea2b80af3e85495200dd0c74eb826b2bd2ccd9409026b044541cee10670a",
+            "fingerprint": "8bb179f27abb1afcf7119e2a2a0e8675ef4d4f80",
             "host": "keybase.io",
-            "key_id": "c1aca463b519c47e",
+            "key_id": "2a0e8675ef4d4f80",
+            "kid": "01012d662aea2b80af3e85495200dd0c74eb826b2bd2ccd9409026b044541cee10670a",
             "uid": "f48a53f6f342ccc47db39b094f2abf00",
             "username": "tbaschak"
         },
@@ -26,39 +28,40 @@ To claim this, I am signing this object:
         "type": "web_service_binding",
         "version": 1
     },
-    "ctime": 1404598090,
+    "ctime": 1461483077,
     "expire_in": 157680000,
-    "prev": "094979c638eeb2e37e1ad06911e2045fd5fce751d66e8099938da3c87629c518",
-    "seqno": 21,
+    "prev": "569a75bd394609ff0083f8453e08e9b998f3d6749b16766efde90f07e70ab7da",
+    "seqno": 63,
     "tag": "signature"
 }
 
-with the aforementioned key, yielding the PGP signature:
+which yields the signature:
 
 -----BEGIN PGP MESSAGE-----
-Comment: GPGTools - http://gpgtools.org
 
-owGbwMvMwMT4Rjw6ZXF56kTG0wd+JzEE7yj3rVZKyk+pVLKqVspOBVNpmXnpqUUF
-RZl5JUpWSobGaUbGyaYmRmZpaUlGFonJaQYpxiYpycmGicmJJmbGSaaGlskm5qlK
-OkoZ+cUgHUBjkhKLU/Uy84FiQE58ZgpQFIv6UrBEmolFoqlxmlmasYlRcjJQKiXJ
-2DLJwNIkzSgxKc3AAKSwOLUoLzE3Fai6BGh0ckZitlKtjhJQtCwzORXkZpDVMBUZ
-qfkp+UWpUIV6yfm5QCMKivJL8pPzc4AKMkpKCoqtQAaUVBaAdJSnJsVDzYpPysxL
-AfofqKMstag4Mz9PycoQqDK5JBNkuKGJgYmppYWBpYGOUmpFQWZRanwmSIWpuZmF
-ARCA7EktAxoJdL6luWWymbFFamqSUaqxeaphYoqBmaWhYaoR0Ii0FNO05FRzU8MU
-M7NUoHGWlsYWKYnGyRbmZkaWyaaGFkog3xXm5StZGRkC3ZmYDjSzODM9L7GktChV
-qZark0mGhYGRiYGNlQkUhwxcnAKwmHXgFWDY8PPW+/JVgllfj87aPrF29mKRF1tK
-L11cfH1284Fb54/MUT17xUi2bPnWJSwxexqOrmjjDI923ZpapqyfHfTd2nxSxqbz
-4kWCL2ynvrp19snB6OBTz/ZNmJ1Vmqm0bOvcaB8h/7NyNU03Fb7/XTa95bHyk63r
-/rD8T9Gx7Vx0/ve6aesaYhhXXNdhjzn9bd9HiSXrm+dfbz7HuVlaIO3huj0b85K3
-RUy7Nc3f4v9z90sTbN/lp/Rr5sx47e/+1vd5aw3jjhnWs9Y6hsWbeSVf28XAc/ay
-/bYT6flLbu+ddj04q/bc2sRQ6wuGq+0vdyuq3YqKnu9zSyNd6fm9xa0HytaI+c6b
-UXljG6OygtrBgO0t80quPeKLW/JjBXvGXofCbUnadlL6OiemtnNZJfws+MJzZGft
-9y+hR2RXPrvX6FYs57ZrG2vZtNCzbWkCLn5f2ROWaG8oMvFwYFT0+uzWWpxpfjle
-U8gi6NDEU3sX74uZUtV4asWll8tfTmKa0/ND2cj9mYVUnFn1LB+hWO/s+7v/BVV3
-9lwseCnlaTnfvf/3wYvFYtrV8h+ub9gR7Pzh0gpmZuOLj1myz7A2xV114Am5W1Ln
-GmmVrK+jpXdc++haSY7HzpXeilUe73b7uefVXBKWPGMxPSCmTXShwv5rX7uEBWRP
-3hJfqag2Y9P8+Ro3E3KuaHhM0zrpfifG9PDy6a3/hSQsf+wqS75aDgA=
-=SeyE
+owGtUm1QVFUYXtBl3UVWRhuTcIi50yjhtp37sfdjAwemcQvISaSJyUz2fpy7e13Y
+u9y9YKSMwOA2a4WoZTIDTkM4kAmKGgNOFihhE8jHQGOJlukEMYI7SUMyUXQvo//6
+2flzzvvO8zzv8z5zauOWGSxRqdZQSWTrqxVR/VOcIX99afZehJOFMsS5F/HBpQsW
+CjCoFvgkAXEiAAUoJpAkxkIW42jAijikHQTjwAAQBMBTBORojOQwTsB4XmAIwACt
+BAThIFAeQhSQFGARGyJKfg9UAorkVzVZmuNQihExitUerMiLFIoyEGMxFkCapBxQ
+JARCpIFG9MpBnaGZ49ggtEuy1tOKgiV7/4H/n32XLMmJBM06cJEUcUKD8wQlcDjD
+AYYQMZYTgT63JAgVP1sENbSqOeW9rA8ptyFat1TioR6svsljhBfKgqzAR0A7Lxdp
+EgFFVmVeLtQAXlUNBJ26gFoW0Bl7IFfwSKuAk/yCFqfGKIVKUJL9iBPVkLwq6eIo
+QaIEjQOKsiHw7YCkwAJJRzgokgba0efAUk3S7SAZlnJwAs4QJGBEbQ8aF2nCgUNA
+Q4ZjGFrEBZIiGA4lKZKEogAZIAIKatFwlKDHE4TFfhlxkrhmlPVookHJ42fVEgUi
+5ZZw9PrlhiiLIcYYrf80g8Uc//j7nZxa9ffqkeSke7knMv0bq82Jfe2b5n5cNjDf
+N63MuLrhQmfVT6bt21eOv3axscevYGebvzQdinGfV/ltnibQ3Z+Z901P2urMu1nP
+mVuJ07vFxbXpyjvhG8Opa9WM9BXD6XO1s9YNt21doSc2Jmd9W5OyYHL7T+dVPfzj
+2JmK/bGxl+yzUQ8WL+ff6s+p+e2Z+qc/TWreL1HPt+5D22Tl/ls1v55qtNb/IF+9
+a3dah0+ec8UfDdT6jFWVhr/iEtDu2HHXZ4VtE98JZe5r96Sh19OajDgXPrKFAaND
+tp7QscldceO71QWfcSZuZ8WO+/7UwcbLHXE5husNhz/qyI19ZU/V0dEBQ1Lk9z+/
+/7p+m7pmsFSazX5vcfjz4pmhcNVcilDEZBjmJ26e3ZHt6strS+nwZpjCnoOmYVY5
+8UvEXBc/mmxOexYdPbzhZeP17PneFqqFTZ/sHbGYE4oHP5wfieEqD7g++eCFLXW5
+wTXTNWf+cd14se6I0H7TOjPW09xpLxt8/90uvLVs0/KpK3kr1oVsm3Pcm8NN57N2
+xosxre4UpH1wYt1X7WMr+6r7u3wdpsKnptEDCfuqs0ITPW82NlgPvuHJ+7j4YUvk
+dueuxPzIJW+DVHnNi6R2lpdMBjLvXO0NjhXeOtXUXdQQsvcvniNiIy9dvGC+E462
+fDF74ecrD540JkrHVw38Cw==
+=dk8Y
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
@@ -67,4 +70,3 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/tbaschak
 
 ==================================================================
-
