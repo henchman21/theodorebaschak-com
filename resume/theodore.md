@@ -9,7 +9,7 @@
 
 ### Profile {#profile}
 
-I am passionate about networking. I have my own fully IPv6 enabled home lab network which I test new things on.  I often write about my technical adventures at [ciscodude.net](https://ciscodude.net/) which includes an actively maintained list of all BGP operators in Manitoba [and their IPv6 status](https://ciscodude.net/bgp/mb/).
+I am passionate about networking. I have my own fully IPv6 enabled home lab network which I test new things on.  I often write about my technical adventures at [bgp.guru](https://bgp.guru/) which includes an actively maintained list of all BGP operators in Manitoba [and their IPv6 status](https://bgp.guru/bgp/mb/).
 
 ------
 
@@ -65,7 +65,7 @@ Manitoba First Nations Education Resource Centre, Inc
   __2010-2012__
   Planned and implemented enterprise network changes as member of Infrastructure Team. Designed, implemented, and supported Service Desk tracking software for internal and external clients. Supported Video Conferencing units in First Nations schools and the MFNERC. Managed stacked Cisco switch configurations, Cisco routers, and firewalls. Deployed new systems and network equipment both internally and in First Nations schools.
 
-Broadband Communcations North
+Broadband Communications North
 : *Director, Network Operations*
   __2007-2010__
   Solely responsible for operating and maintaining a geographically diverse network spanning over 40 First Nations and remote communities in northern Manitoba. All standard ISP services were provided using standards compliant open source software. Maintained communications with Government clients. Responsible for dealing with telecom vendors. Responsible for implementing monitoring of all aspects of the network including performance, availability, and growth using open source software packages (Nagios, MRTG then Cacti, Smokeping, and NetDisco).
@@ -106,6 +106,6 @@ Manitoba Internet Exchange
 
 Theodore Baschak -- [theodore@ciscodude.net](theodore@ciscodude.net) -- (431) 999-1735
 -- Github: [https://github.com/tbaschak](https://github.com/tbaschak) --
-Blog: [https://ciscodude.net/](https://ciscodude.net/)
+Blog: [https://bgp.guru/](https://bgp.guru/)
 
 ------
