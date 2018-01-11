@@ -100,6 +100,11 @@ Manitoba Internet Exchange
   __2013-current__
   Nominated for a board position by the local operator community. 
 
+Manitoba Internet Exchange
+: *Operations Team*
+  __2015-current__
+  Was asked to join the Manitoba Internet Exchange Operations Team.
+
 ------
 
 ### Footer {#footer}
